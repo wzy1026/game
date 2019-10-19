@@ -64,6 +64,6 @@ aneObj.prototype.draw=function(){
 }
 //5 将ane.js添加index.html 文件中
 //6 在main.js创建海葵对象
-
+//
 
 
