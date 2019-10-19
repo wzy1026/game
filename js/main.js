@@ -117,6 +117,9 @@ document.body.onload=game;
 //创建一个函数处理鼠标移动事件
 function handleMove(event){
   //获取鼠标坐标赋值全局变量
+  //修改
+
+
   mx=event.offsetX;
   my=event.offsetY;
 }
